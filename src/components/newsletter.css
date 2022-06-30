@@ -1,0 +1,9 @@
+.newsBox {
+  background-color: #ffddd2;
+}
+
+.newsInput {
+  border-radius: 5rem;
+  padding-left: 2rem;
+  border: 0.1 gray;
+}

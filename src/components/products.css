@@ -1,0 +1,7 @@
+.productsPhotoContainer {
+  max-height: 100px;
+}
+
+.productsPhoto {
+  background-size: contain;
+}
