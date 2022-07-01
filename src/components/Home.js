@@ -8,7 +8,7 @@ const Home = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="img/background.jpg"
+            src="public/img/background3.jpg"
             alt="First slide"
           />
           <Carousel.Caption>
@@ -19,14 +19,14 @@ const Home = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="img/background2.jpg"
+            src="public/img/background2.jpg"
             alt="Second slide"
           />
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="img/background3.jpg"
+            src="public/img/background3.jpg"
             alt="Third slide"
           />
         </Carousel.Item>

@@ -137,8 +137,6 @@ function DeleteItem(product) {
   }
 
   localStorage.setItem("cart", JSON.stringify(cart));
-  data.splice(product, 1);
-  setData([...data]);
 }
 
 export default Fav;
